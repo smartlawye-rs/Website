@@ -48,6 +48,17 @@
         margin-top: -28px;
       }
       
+      .carousel-caption
+      {
+       padding-bottom: 10px;
+       margin-bottom: -100px;
+       
+      }
+      .carousel-inner
+      {
+       overflow: visible;
+      }
+      
       @media (min-width: 768px)
       {
       .navbar-nav
